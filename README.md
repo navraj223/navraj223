@@ -1,1 +1,3 @@
-hi im navraj doing computer science specializing in cybersecurity 
+Specilizing in cybersecurity
+My main projects are in the "projects" folder
+
